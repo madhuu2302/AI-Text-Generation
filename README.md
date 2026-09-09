@@ -46,7 +46,16 @@ Adjust the temperature.
 Click Generate Text 
 The AI generates and displays the text.
 
+What This Project Demonstrates
+This project provides a practical introduction to:
 
+Transformer-based language models
+Hugging Face Transformers
+Text generation
+Pretrained AI models
+Streamlit application development
+Model caching
+Connecting an AI model to a web interface
 
  Author
 
