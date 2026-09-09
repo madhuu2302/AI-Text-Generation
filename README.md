@@ -1,20 +1,20 @@
-# 🤖 AI Text Generation using Transformers
+#  AI Text Generation using Transformers
 
 A simple AI-powered text generation web application built using **Python, Streamlit, and Hugging Face Transformers**.
 
 The application takes a user-provided prompt and uses a pre-trained language model to generate meaningful text automatically.
 
-✨ Features
+Features
 
-- 🤖 AI-based text generation
-- 📝 User-friendly prompt input
-- 🎛️ Adjustable maximum text length
-- 🌡️ Adjustable temperature
-- ⚡ Real-time text generation
-- 🔄 Uses Hugging Face Transformers pipeline
-- 💻 Simple Streamlit web interface
+-  AI-based text generation
+-  User-friendly prompt input
+-  Adjustable maximum text length
+-  Adjustable temperature
+-  Real-time text generation
+-  Uses Hugging Face Transformers pipeline
+-  Simple Streamlit web interface
 
- 🛠️ Technologies Used
+  Technologies Used
 
 - Python
 - Streamlit
@@ -22,7 +22,7 @@ The application takes a user-provided prompt and uses a pre-trained language mod
 - Qwen Language Model
 -PyTorch
 
-📌 Model Used
+ Model Used
 
 This project uses the following Hugging Face model:
 
@@ -30,7 +30,7 @@ This project uses the following Hugging Face model:
 
 The model is loaded using the Transformers `text-generation` pipeline.
 
-📂 Project Structure
+ Project Structure
 
 ```text
 AI-Text-Generator/
@@ -39,17 +39,16 @@ AI-Text-Generator/
 ├── requirements.txt
 └── README.md
 
-🔄 How It Works
+ How It Works
 Enter a prompt in the text box.
 Set the maximum length.
 Adjust the temperature.
-Click Generate Text 🚀.
+Click Generate Text 
 The AI generates and displays the text.
 
-📸Screeenshot
-<img width="1797" height="875" alt="ss github" src="https://github.com/user-attachments/assets/bdca3916-e736-4d5d-9c32-9037c350c8d5" />
 
-👩‍💻 Author
+
+ Author
 
 Madhumitha
 
