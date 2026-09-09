@@ -40,6 +40,7 @@ AI-Text-Generator/
 └── README.md
 
  How It Works
+
 Enter a prompt in the text box.
 Set the maximum length.
 Adjust the temperature.
@@ -47,6 +48,7 @@ Click Generate Text
 The AI generates and displays the text.
 
 What This Project Demonstrates
+
 This project provides a practical introduction to:
 
 Transformer-based language models
